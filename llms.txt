@@ -1,0 +1,45 @@
+Bilingual Architecture Glossary
+
+Bilingual Architecture Glossary is a practical architecture library workspace for material reviewer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://glossary.taiwanarch.com/
+- https://glossary.taiwanarch.com/tool/
+- https://glossary.taiwanarch.com/workspace/
+- https://glossary.taiwanarch.com/reports/
+- https://glossary.taiwanarch.com/guides/
+- https://glossary.taiwanarch.com/library/
+- https://glossary.taiwanarch.com/templates/
+- https://glossary.taiwanarch.com/compare/
+- https://glossary.taiwanarch.com/checklists/
+- https://glossary.taiwanarch.com/integrations/
+- https://glossary.taiwanarch.com/settings/
+- https://glossary.taiwanarch.com/plans/
+- https://glossary.taiwanarch.com/faq/
+- https://glossary.taiwanarch.com/privacy/
+- https://glossary.taiwanarch.com/about/
+- https://glossary.taiwanarch.com/guides/define-terms-1/
+- https://glossary.taiwanarch.com/guides/compare-materials-2/
+- https://glossary.taiwanarch.com/guides/convert-units-3/
+- https://glossary.taiwanarch.com/guides/prepare-notes-4/
+- https://glossary.taiwanarch.com/guides/build-a-reference-set-5/
+- https://glossary.taiwanarch.com/guides/export-a-glossary-6/
+- https://glossary.taiwanarch.com/guides/define-terms-7/
+- https://glossary.taiwanarch.com/guides/compare-materials-8/
+- https://glossary.taiwanarch.com/guides/convert-units-9/
+- https://glossary.taiwanarch.com/guides/prepare-notes-10/
+- https://glossary.taiwanarch.com/guides/build-a-reference-set-11/
+- https://glossary.taiwanarch.com/guides/export-a-glossary-12/
+- https://glossary.taiwanarch.com/guides/define-terms-13/
+- https://glossary.taiwanarch.com/guides/compare-materials-14/
+- https://glossary.taiwanarch.com/guides/convert-units-15/
+- https://glossary.taiwanarch.com/guides/prepare-notes-16/
+- https://glossary.taiwanarch.com/guides/build-a-reference-set-17/
+- https://glossary.taiwanarch.com/guides/export-a-glossary-18/
+- https://glossary.taiwanarch.com/guides/define-terms-19/
+- https://glossary.taiwanarch.com/guides/compare-materials-20/
+- https://glossary.taiwanarch.com/guides/convert-units-21/
+- https://glossary.taiwanarch.com/guides/prepare-notes-22/
+- https://glossary.taiwanarch.com/guides/build-a-reference-set-23/
+- https://glossary.taiwanarch.com/guides/export-a-glossary-24/
+- https://glossary.taiwanarch.com/guides/define-terms-25/
